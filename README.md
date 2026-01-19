@@ -31,10 +31,35 @@ Make sure the following are installed on your machine:
 
 ---
 
+
 ## How to Run the Application
-1. Clone the repository:
-```bash
- https://github.com/MashiatAnjum/Teebay-Buggy-Automation
+1. Clone the repository: https://github.com/MashiatAnjum/Teebay-Buggy-Automation
+
+## Navigate to the project directory:
+cd teebay-buggy-master
+
+## Install dependencies:
+npm install
+
+## Start the application:
+npm start
+
+## The app will be available at:
+http://localhost:3000
+
+---
+
+
+## How to Run Cypress Tests
+npx cypress open
+
+Select E2E Testing;
+
+Choose a browser;
+
+Click on any .cy.js file to run tests;
+
+
 
 
 

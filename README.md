@@ -6,13 +6,33 @@ This repository contains an automated end-to-end testing solution using **Cypres
 
 ##  Project Overview
 The purpose of this project is to automate critical user flows such as:
-- User Registration
-- User Login
-- Add Product
+
+User Authentication: Registration, Login, and Logout with confirmation handling.
+
+Product Management: Adding, Editing, and Deleting products.
+
+Search & Filter: Searching by title and filtering by category.
+
+Account Settings: Updating profile details like name, address, and phone number.
 
 These tests were written as part of a QA Automation assessment.
 
 ---
+
+## Test Coverage
+The suite includes the following test files located in cypress/e2e/:
+
+add_product.cy.js: Validates the full flow of adding a new product with category selection.
+
+edit_product.cy.js: Ensures existing product details can be modified.
+
+delete_product.cy.js: Verifies product removal functionality.
+
+search_product.cy.js: Tests the search title and category filtering.
+
+update_account.cy.js: Automates profile updates (Name, Address, Phone).
+
+logout.cy.js: Handles the session termination and logout confirmation modal.
 
 ## Tech Stack
 - React (Application)

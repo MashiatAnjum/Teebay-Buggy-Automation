@@ -34,7 +34,7 @@ Make sure the following are installed on your machine:
 ## How to Run the Application
 1. Clone the repository:
 ```bash
-git clone https://github.com/MashiatAnjum/Teebay-Buggy-Automation
+ https://github.com/MashiatAnjum/Teebay-Buggy-Automation
 
 
 

@@ -53,18 +53,25 @@ http://localhost:3000
 ## How to Run Cypress Tests
 npx cypress open
 
-Select E2E Testing;
+Select E2E Testing
 
-Choose a browser;
+Choose a browser
 
-Click on any .cy.js file to run tests;
+Click on any .cy.js file to run tests
 
+## Run Cypress in Headless Mode
 
+npx cypress run
 
+## Notes
+Ensure the application is running before executing Cypress tests
 
+Tests are written assuming a clean local environment
 
+Dummy test data is used for automation purposes
 
-
+## Author
+Mashiat Anjum Talukder
 
 
 

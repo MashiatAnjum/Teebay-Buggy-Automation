@@ -1,3 +1,41 @@
+# Teebay Automation Testing Challenge
+
+This repository contains an automated end-to-end testing solution using **Cypress** for the Teebay web application.
+
+---
+
+##  Project Overview
+The purpose of this project is to automate critical user flows such as:
+- User Registration
+- User Login
+- Add Product
+
+These tests were written as part of a QA Automation assessment.
+
+---
+
+## 🛠 Tech Stack
+- React (Application)
+- Cypress (End-to-End Automation)
+- JavaScript
+- Node.js & npm
+
+---
+
+##  Project Structure
+cypress/
+└── e2e/
+├── login.cy.js
+├── registration.cy.js
+└── addProduct.cy.js
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,6 +1,6 @@
-# Teebay Automation Testing Challenge
+# Teebay-Buggy Automation 
 
-This repository contains an automated end-to-end testing solution using **Cypress** for the Teebay web application.
+This repository contains an automated end-to-end testing solution using **Cypress** for the Teebay-Buggy web application.
 
 ---
 
@@ -34,7 +34,9 @@ Make sure the following are installed on your machine:
 ## How to Run the Application
 1. Clone the repository:
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/MashiatAnjum/Teebay-Buggy-Automation
+
+
 
 
 

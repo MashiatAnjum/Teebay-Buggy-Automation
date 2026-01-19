@@ -22,12 +22,19 @@ These tests were written as part of a QA Automation assessment.
 
 ---
 
-##  Project Structure
-cypress/
-└── e2e/
-├── login.cy.js
-├── registration.cy.js
-└── addProduct.cy.js
+---
+
+## Prerequisites
+Make sure the following are installed on your machine:
+- Node.js (v16 or later recommended)
+- npm
+
+---
+
+## How to Run the Application
+1. Clone the repository:
+```bash
+git clone <your-github-repo-link>
 
 
 

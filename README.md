@@ -14,7 +14,7 @@ These tests were written as part of a QA Automation assessment.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - React (Application)
 - Cypress (End-to-End Automation)
 - JavaScript

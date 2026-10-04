@@ -1,4 +1,4 @@
-# Teebay-Buggy Automation 
+# Teebay-Buggy App Testing Automation 
 
 This repository contains an automated end-to-end testing solution using **Cypress** for the Teebay-Buggy web application.
 
